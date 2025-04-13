@@ -1,0 +1,3 @@
+com\kafkaconsumerservice\kafka\KafkaConsumer.class
+com\kafkaconsumerservice\model\Message.class
+com\kafkaconsumerservice\KafkaConsumerServiceApplication.class
